@@ -1,6 +1,5 @@
-# Complete-Web-Developer-Manual
+# Complete Web Developer Zero to Mastery Manual
 
-******************************************************************************************
 ##  __*Contents*__
 
 [ 1. *Introduction*](#01)<br>
