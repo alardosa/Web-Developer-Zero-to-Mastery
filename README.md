@@ -38,7 +38,7 @@
 ## <a name ="01"></a>1.	__Introduction__
 
 Discord Channel:
-*	~~https://discord.gg/nVmbHYY~~ You will find it inside course
+*	
 ******************************************************************************************
 ## <a name ="02"></a>2.	__How The Internet Works__
 
@@ -1244,7 +1244,7 @@ heroku pg:psql
 ## <a name ="29"></a>29.	__Where To Go From Here?__
 ******************************************************************************************
 
-[The Complete Junior to Senior Web Developer Roadmap (2021)](https://academy.zerotomastery.io/p/the-complete-junior-to-senior-web-developer-roadmap?utm_source=github&utm_medium=complete-web-developer-manual)
+The Complete Junior to Senior Web Developer Roadmap (2021)
 
 ******************************************************************************************
 ## <a name ="30"></a>30.	__Bonus: Extra Bits (Coding Challenges + AMA)__
@@ -1255,3 +1255,29 @@ heroku pg:psql
 ******************************************************************************************
 ## <a name ="32"></a>32.	__Bonus: Part 2 - Special Thank You Gift (Discount Coupons)__
 ******************************************************************************************
+
+# The Complete Web Developer in 2021: Zero to Mastery
+
+Become a Fullstack Web Developer by learning the most in demand skills! Graduates of this course are now working at companies like Google, Tesla, Amazon, Apple, Shopify, JP Morgan, Facebook + other top tech companies (...seriously).
+
+Join a live online community of over 400,000+ developers and a course taught by an industry expert that has actually worked in Lazada Philippines as a Senior Developer and Tech Lead.
+
+Become a modern web developer. It doesn’t just cover a small portion of the industry. This covers everything you need to know to get hired: from absolute zero knowledge to being able to put things on your resume that will allow you to live the life you want.
+
+Students have commented how the projects in this course have impressed their interviewers and allowed them to get an offer.
+
+I'm a software developer who has worked directly with these technologies.  I love programming and believe that there needs to be a course out there that actually teaches valuable real life skills (because most of them are taught by teachers with no work experience).
+
+I have taken the best pieces, tools, and practices that I have found over the years, and condensed everything.
+
+### References
+[The Best Python for Finance: Investment Fundamentals & Data Analytics](https://www.alardosa.com/python-finance-investment-data-analytics/)
+
+[The Complete Web Developer in 2021: Zero to Mastery ](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+
+## Contact
+You can send me a note on Linkedin [@alardosa](https://www.linkedin.com/in/alardosa/)
+
+or visit my website at:
+
+[www.alardosa.com](https://www.alardosa.com)
