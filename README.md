@@ -1,8 +1,5 @@
 # Complete-Web-Developer-Manual
 
-
-All resources and notes from the [Complete Web Developer in 2021: Zero to Mastery course](https://academy.zerotomastery.io/p/complete-web-developer-alardosa?utm_source=github&utm_medium=complete-web-developer-manual)
-
 ******************************************************************************************
 ##  __*Contents*__
 
