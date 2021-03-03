@@ -306,7 +306,7 @@ Free Design resources:
 ******************************************************************************************
 ## <a name ="10"></a>10.	__Career Of A Web Developer__
 
-Updated Statistics and Surveys 2020:
+Updated Statistics and Surveys:
 
 *	State of JavaScript
 	*	https://www.jetbrains.com/lp/devecosystem-2020/javascript/
@@ -319,7 +319,7 @@ Updated Statistics and Surveys 2020:
 *	Stackoverflow Survey
 	*	https://insights.stackoverflow.com/survey/
   
-Web Developer Roadmap 2021:
+Web Developer Roadmap:
 *	Part 1: https://www.youtube.com/watch?v=57GuRoJ5Bfw
 *	Part 2: https://www.youtube.com/watch?v=aeKQy_08fpk
 
@@ -1244,7 +1244,7 @@ heroku pg:psql
 ## <a name ="29"></a>29.	__Where To Go From Here?__
 ******************************************************************************************
 
-The Complete Junior to Senior Web Developer Roadmap (2021)
+The Complete Junior to Senior Web Developer Roadmap
 
 ******************************************************************************************
 ## <a name ="30"></a>30.	__Bonus: Extra Bits (Coding Challenges + AMA)__
