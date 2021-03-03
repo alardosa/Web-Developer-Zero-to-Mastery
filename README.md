@@ -1256,7 +1256,7 @@ The Complete Junior to Senior Web Developer Roadmap (2021)
 ## <a name ="32"></a>32.	__Bonus: Part 2 - Special Thank You Gift (Discount Coupons)__
 ******************************************************************************************
 
-# The Complete Web Developer in 2021: Zero to Mastery
+# The Complete Web Developer: Zero to Mastery
 
 Become a Fullstack Web Developer by learning the most in demand skills! Graduates of this course are now working at companies like Google, Tesla, Amazon, Apple, Shopify, JP Morgan, Facebook + other top tech companies (...seriously).
 
@@ -1273,7 +1273,7 @@ I have taken the best pieces, tools, and practices that I have found over the ye
 ### References
 [Best for Remote Workers – Fullstack Web Developer from Zero to Mastery](https://www.alardosa.com/fullstack-web-developer-zeo-to-hero/)
 
-[The Complete Web Developer in 2021: Zero to Mastery ](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+[The Complete Web Developer: Zero to Mastery ](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
 ## Contact
 You can send me a note on Linkedin [@alardosa](https://www.linkedin.com/in/alardosa/)
