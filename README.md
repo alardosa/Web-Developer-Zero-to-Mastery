@@ -1271,7 +1271,7 @@ I'm a software developer who has worked directly with these technologies.  I lov
 I have taken the best pieces, tools, and practices that I have found over the years, and condensed everything.
 
 ### References
-[The Best Python for Finance: Investment Fundamentals & Data Analytics](https://www.alardosa.com/python-finance-investment-data-analytics/)
+[Best for Remote Workers – Fullstack Web Developer from Zero to Mastery](https://www.alardosa.com/fullstack-web-developer-zeo-to-hero/)
 
 [The Complete Web Developer in 2021: Zero to Mastery ](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
