@@ -91,7 +91,7 @@ Topics:
 *	Relative vs Absolute Path
 
 Zero to Mastery resources:
-*	https://github.com/alardosa/complete-web-developer-manual
+*	https://github.com/alardosa/web-developer-zero-to-mastery
 *	https://github.com/alardosa/alardosa-captions
 
 Reference websites:
@@ -1271,7 +1271,7 @@ I'm a software developer who has worked directly with these technologies.  I lov
 I have taken the best pieces, tools, and practices that I have found over the years, and condensed everything.
 
 ### References
-[Best for Remote Workers – Fullstack Web Developer from Zero to Mastery](https://www.alardosa.com/fullstack-web-developer-zeo-to-hero/)
+[Full Stack Web Developer Without Degree – How to Become Full Stack Web Developer](https://www.alardosa.com/full-stack-web-developer-without-egree/)
 
 [The Complete Web Developer: Zero to Mastery ](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
