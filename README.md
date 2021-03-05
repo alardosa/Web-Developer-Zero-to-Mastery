@@ -1,4 +1,4 @@
-# Full Stack Web Developer - Become a Full Stack Web Developer with Just One Course
+# Become a Full Stack Web Developer with Just One Course
 
 ##  __*Contents*__
 
@@ -1256,7 +1256,7 @@ The Complete Junior to Senior Web Developer Roadmap
 ## <a name ="32"></a>32.	__Bonus: Part 2 - Special Thank You Gift (Discount Coupons)__
 ******************************************************************************************
 
-# Full Stack Web Developer - Become a Full Stack Web Developer with Just One Course
+# Become a Full Stack Web Developer with Just One Course
 
 Become a Fullstack Web Developer by learning the most in demand skills! Graduates of this course are now working at companies like Google, Tesla, Amazon, Apple, Shopify, JP Morgan, Facebook + other top tech companies (...seriously).
 
