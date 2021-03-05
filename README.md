@@ -1,4 +1,4 @@
-# Complete Web Developer Zero to Mastery Manual
+# Full Stack Web Developer - Become a Full Stack Web Developer with Just One Course
 
 ##  __*Contents*__
 
@@ -1256,7 +1256,7 @@ The Complete Junior to Senior Web Developer Roadmap
 ## <a name ="32"></a>32.	__Bonus: Part 2 - Special Thank You Gift (Discount Coupons)__
 ******************************************************************************************
 
-# The Complete Web Developer: Zero to Mastery
+# Full Stack Web Developer - Become a Full Stack Web Developer with Just One Course
 
 Become a Fullstack Web Developer by learning the most in demand skills! Graduates of this course are now working at companies like Google, Tesla, Amazon, Apple, Shopify, JP Morgan, Facebook + other top tech companies (...seriously).
 
@@ -1271,7 +1271,7 @@ I'm a software developer who has worked directly with these technologies.  I lov
 I have taken the best pieces, tools, and practices that I have found over the years, and condensed everything.
 
 ### References
-[Full Stack Web Developer Without Degree – How to Become Full Stack Web Developer](https://www.alardosa.com/full-stack-web-developer-without-egree/)
+[Full Stack Web Developer Without Degree – How to Become Full Stack Web Developer](https://www.alardosa.com/full-stack-web-developer-without-degree/)
 
 [The Complete Web Developer: Zero to Mastery ](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
